@@ -8,8 +8,6 @@
 
 <p align="left"> I am a software engineer with a passion for writing code and developing efficient solutions. My coding journey began with Python, and I have since expanded my skills to include a broad knowledge of HTML, CSS, and Django. I love unravelling complex coding challenges, and I'm always eager to learn more about the constantly evolving tech world.</p>
 
-🔭 I’m currently working on a Software Engineering (Fundamentals) certification with HyperionDev.<br>
-🌱 I’m learning about system design, architectures, data structures, and algorithms.<br>
 👯 I’m eager to collaborate on open-source projects.<br>
 
 <h2 align="left">Programming Languages:</h2>
